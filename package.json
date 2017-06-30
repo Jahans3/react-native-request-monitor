@@ -1,0 +1,24 @@
+{
+  "name": "react-native-request-monitor",
+  "version": "0.0.1",
+  "description": "Monitor requests going in and out of your app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jahans3/react-native-request-monitor.git"
+  },
+  "author": "JJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jahans3/react-native-request-monitor/issues"
+  },
+  "homepage": "https://github.com/Jahans3/react-native-request-monitor#readme",
+  "dependencies": {
+    "eslint-config-standard": "^10.2.1",
+    "react": "^15.6.1",
+    "react-native": "^0.45.1"
+  }
+}
